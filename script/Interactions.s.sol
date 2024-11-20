@@ -1,5 +1,5 @@
 // SPDX-License-Identifier
-pragma solidity ^0.8.28;
+pragma solidity ^0.8.18;
 
 import {Script, console} from "forge-std/Script.sol";
 import {FundMe} from "../src/FundMe.sol";
